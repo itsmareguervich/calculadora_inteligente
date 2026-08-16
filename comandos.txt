@@ -1,0 +1,7 @@
+Comandos utilizados nos itens 3, 4 e 5 da tarefa:
+
+chmod +x calculadora_inteligente.py
+
+chmod 744 calculadora_inteligente.py
+
+./calculadora_inteligente.py
