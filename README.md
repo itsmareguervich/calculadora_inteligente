@@ -32,9 +32,15 @@ A Calculadora Inteligente é um script executável desenvolvido em Python, que p
 1. Abra o terminal;
 2. Navegue até a pasta do arquivo;
 3. Conceda a permissão de execução do arquivo:
-  chmod 744 calculadora_inteligente.sh
-4. Execute do programa:
-   ./calculadora_inteligente.sh
 
+```Bash
+chmod 744 calculadora_inteligente.sh
+```
+
+5. Execute do programa:
+
+```Bash
+./calculadora_inteligente.sh
+```
 ## Autoria
 Projeto criado por Mariana G. Varrichio
