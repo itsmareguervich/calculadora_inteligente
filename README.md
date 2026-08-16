@@ -6,6 +6,7 @@ O objetivo do projeto realizado na primeira fase do curso foi praticar os concei
 
 ## Tecnologias utilizadas
 - Python 3
+- Shell Script (Bash)
 - Linux (Ubuntu)
 - Git
 - GitHub
