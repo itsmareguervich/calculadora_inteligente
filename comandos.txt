@@ -1,7 +1,7 @@
-Comandos utilizados nos itens 3, 4 e 5 da tarefa:
+Comandos úteis:
 
-chmod +x calculadora_inteligente.py
-
+## Para tornar o arquivo executável:
 chmod 744 calculadora_inteligente.py
 
+## Para executar o programa:
 ./calculadora_inteligente.py
